@@ -1,3 +1,6 @@
+
+  
+  
   The "OBS_WS_1.1_TRANS" program is a tool designed for synchronous
 control of two instances of Open Broadcaster Software (OBS) through WebSocket.    
   Its key feature lies in the ability to simultaneously manage two OBS 
@@ -17,3 +20,4 @@ The main functions of the program include:
   To use the program, it is necessary to pre-install and configure two instances
 of Open Broadcaster Software with WebSocket support activated.
 
+<img width="483" alt="Снимок экрана 2023-12-17 в 15 01 54" src="https://github.com/Nktdenis/OBS_WS_5.1_TRANS/assets/154056567/7476a45e-b54c-4856-9bf5-d2e66a4f8c5c">
