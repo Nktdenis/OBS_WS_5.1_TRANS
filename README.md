@@ -19,7 +19,8 @@ The main functions of the program include:
 
   To use the program, it is necessary to pre-install and configure two instances
 of Open Broadcaster Software with WebSocket support activated.
-  Download and configure Ashmanix Blur Filter to enable BLUR button
+
+Download and configure Ashmanix Blur Filter to enable BLUR button
   https://github.com/ashmanix/blur-filter-obs-plugin
   Add beep.wav to enable BEEP button
 
