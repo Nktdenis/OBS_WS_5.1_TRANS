@@ -10,7 +10,7 @@ scenes, and scene switching.
 The main functions of the program include:
 
 1) Easy connection and disconnection to two OBS instances with specified IP address and port.
-2)Real-time monitoring of recording and broadcasting statuses for each OBS instance.
+2) Real-time monitoring of recording and broadcasting statuses for each OBS instance.
 3) Management of scenes in both OBS instances, including the ability to switch between scenes.
 4) Capability to start and stop recording simultaneously in both instances.
 5) Capability to start and stop broadcasting simultaneously in both instances.
