@@ -4,8 +4,7 @@ control of two instances of Open Broadcaster Software (OBS) through WebSocket.
 instances, providing synchronized control over recording, broadcasting, 
 scenes, and scene switching.
 
-The main functions of the program include:![DISCCONNECT_2](https://github.com/Nktdenis/OBS_WS_5.1_TRANS/assets/154056567/f1c4bd1a-364d-4bcf-9dad-da41dd25613e)
-
+The main functions of the program include:
 
 1) Easy connection and disconnection to two OBS instances with specified IP address and port.
 2)Real-time monitoring of recording and broadcasting statuses for each OBS instance.
